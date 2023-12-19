@@ -34,17 +34,17 @@ def callback(message):
         
 
         #implementing sentiment analysis
-        #df = df[df['Comment_Subreddit'] == 'iphone15']
-        #classifier = pipeline("zero-shot-classification")
+        df = df[df['Comment_Subreddit'] == 'iphone15']
+        classifier = pipeline("zero-shot-classification")
 
-        # Sample candidate labels
-        # candidate_labels = ["happy", "excited", "satisfied", "frustrated", "angry", "disappointed", "neutral", "indifferent", "ambivalent"]
+        Sample candidate labels
+        candidate_labels = ["happy", "excited", "satisfied", "frustrated", "angry", "disappointed", "neutral", "indifferent", "ambivalent"]
 
-        # # Function to classify sentiments
-        # def classify_sentiment(sequence):
-        #     result = classifier(sequence, candidate_labels)
-        #     return result['labels'][0]  # Extracting the top predicted label
-        # df['Sentiment'] = df['Comment_Body'].apply(classify_sentiment)
+        # Function to classify sentiments
+        def classify_sentiment(sequence):
+            result = classifier(sequence, candidate_labels)
+            return result['labels'][0]  # Extracting the top predicted label
+        df['Sentiment'] = df['Comment_Body'].apply(classify_sentiment)
 
         
         # Read CSV data
