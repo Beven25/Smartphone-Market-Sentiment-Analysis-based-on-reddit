@@ -48,7 +48,8 @@ def callback(message):
 
         
         # Read CSV data
-        df = pd.read_csv('API data/final_product.csv')
+        # df = pd.read_csv('API data/final_product.csv')
+        df.to_csv('API data/final_product.csv')
         
         client = storage.Client.from_service_account_json('credentials.json')  
         
