@@ -1,0 +1,6 @@
+2023-12-17 21:50:08,047 - INFO - Listening for messages on projects/dataeng2-407917/subscriptions/reddit_processed_data-sub...
+2023-12-17 21:50:16,909 - INFO - DataFrame reconstructed. Dimensions: (11342, 14)
+2023-12-17 21:50:17,156 - INFO - DataFrame reconstructed. Dimensions: (11342, 14)
+2023-12-17 21:50:19,242 - INFO - DataFrame pushed to GCS successfully
+2023-12-17 21:50:19,790 - INFO - DataFrame pushed to GCS successfully
+2023-12-17 21:50:48,058 - INFO - Thread-ConsumeBidirectionalStream exiting

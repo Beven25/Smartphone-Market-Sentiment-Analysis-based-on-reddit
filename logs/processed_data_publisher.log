@@ -1,0 +1,61 @@
+2023-12-18 11:16:49,199 - WARNING - No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
+2023-12-18 11:16:49,218 - INFO - Listening for messages on projects/dataeng2-407917/subscriptions/reddit_raw_data-sub...
+2023-12-18 11:16:53,136 - INFO - Received raw data message.
+2023-12-18 11:16:53,256 - INFO - Data consumed and DataFrame created and saved locally.
+2023-12-18 11:16:53,790 - INFO - Data preprocessing completed.
+2023-12-18 11:16:53,922 - INFO - Received raw data message.
+2023-12-18 11:16:54,040 - INFO - Data consumed and DataFrame created and saved locally.
+2023-12-18 11:16:54,821 - INFO - Data preprocessing completed.
+2023-12-18 11:16:54,964 - INFO - Received raw data message.
+2023-12-18 11:16:55,065 - INFO - Data consumed and DataFrame created and saved locally.
+2023-12-18 11:16:55,276 - INFO - Received raw data message.
+2023-12-18 11:16:55,639 - INFO - Data consumed and DataFrame created and saved locally.
+2023-12-18 11:16:56,493 - INFO - Data preprocessing completed.
+2023-12-18 11:16:56,502 - INFO - Data preprocessing completed.
+2023-12-18 11:16:58,284 - INFO - File uploaded to GCS.
+2023-12-18 11:16:58,648 - INFO - File uploaded to GCS.
+2023-12-18 11:16:59,487 - INFO - File uploaded to GCS.
+2023-12-18 11:17:00,053 - INFO - File uploaded to GCS.
+2023-12-18 11:17:00,611 - WARNING - No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
+2023-12-18 11:17:01,021 - WARNING - No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
+2023-12-18 11:17:02,107 - WARNING - No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
+2023-12-18 11:17:02,618 - WARNING - No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
+2023-12-18 11:17:03,974 - INFO - Processed data published.
+2023-12-18 11:17:03,975 - INFO - Message acknowledged and processing completed.
+2023-12-18 11:17:04,154 - INFO - Processed data published.
+2023-12-18 11:17:04,154 - INFO - Message acknowledged and processing completed.
+2023-12-18 11:17:05,441 - INFO - Processed data published.
+2023-12-18 11:17:05,458 - INFO - Message acknowledged and processing completed.
+2023-12-18 11:17:07,202 - INFO - Processed data published.
+2023-12-18 11:17:07,202 - INFO - Message acknowledged and processing completed.
+2023-12-18 11:17:29,256 - INFO - No new messages for 30 seconds, exiting.
+2023-12-18 11:17:29,338 - INFO - Thread-ConsumeBidirectionalStream exiting
+2023-12-18 11:18:11,272 - WARNING - No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
+2023-12-18 11:18:11,295 - INFO - Listening for messages on projects/dataeng2-407917/subscriptions/reddit_raw_data-sub...
+2023-12-18 11:18:13,962 - INFO - Received raw data message.
+2023-12-18 11:18:14,064 - INFO - Data consumed and DataFrame created and saved locally.
+2023-12-18 11:18:14,562 - INFO - Data preprocessing completed.
+2023-12-18 11:18:14,851 - INFO - Received raw data message.
+2023-12-18 11:18:15,002 - INFO - Data consumed and DataFrame created and saved locally.
+2023-12-18 11:18:15,835 - INFO - Data preprocessing completed.
+2023-12-18 11:18:17,609 - INFO - File uploaded to GCS.
+2023-12-18 11:18:18,466 - INFO - File uploaded to GCS.
+2023-12-18 11:18:19,528 - WARNING - No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
+2023-12-18 11:18:20,584 - WARNING - No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
+2023-12-18 11:18:21,533 - INFO - Processed data published.
+2023-12-18 11:18:21,533 - INFO - Message acknowledged and processing completed.
+2023-12-18 11:18:22,516 - INFO - Processed data published.
+2023-12-18 11:18:22,518 - INFO - Message acknowledged and processing completed.
+2023-12-18 11:18:46,306 - INFO - No new messages for 30 seconds, exiting.
+2023-12-18 11:18:46,348 - INFO - Thread-ConsumeBidirectionalStream exiting
+2023-12-18 11:19:13,124 - WARNING - No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
+2023-12-18 11:19:13,139 - INFO - Listening for messages on projects/dataeng2-407917/subscriptions/reddit_raw_data-sub...
+2023-12-18 11:19:16,307 - INFO - Received raw data message.
+2023-12-18 11:19:16,456 - INFO - Data consumed and DataFrame created and saved locally.
+2023-12-18 11:19:17,032 - INFO - Data preprocessing completed.
+2023-12-18 11:19:19,490 - INFO - File uploaded to GCS.
+2023-12-18 11:19:21,193 - WARNING - No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
+2023-12-18 11:19:23,205 - INFO - Processed data published.
+2023-12-18 11:19:23,205 - INFO - Message acknowledged and processing completed.
+2023-12-18 11:19:48,158 - INFO - No new messages for 30 seconds, exiting.
+2023-12-18 11:19:48,184 - INFO - Thread-ConsumeBidirectionalStream exiting

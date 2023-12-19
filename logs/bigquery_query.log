@@ -1,0 +1,6 @@
+2023-12-17 21:54:24,143 - ERROR - Error occurred: 400 Already Exists: Table dataeng2-407917:dataset_dataeng2.table_iphone at [2:1]
+
+Location: europe-west3
+Job ID: 8515e373-a692-45be-8b25-4501a2d3d67a
+
+2023-12-17 21:55:50,880 - INFO - Successfully ran the query
