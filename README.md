@@ -25,6 +25,10 @@ The data pipeline consists of the following components:
 - facebook/bart-large-mnli Pre-trained Model
 - Looker Studio
 ---
+## System Architecture 
+<div align="center">
+  <img width="768" alt="DE-2-Arch" src="https://github.com/user-attachments/assets/8b0dd6fe-60bd-40bb-b870-6cc48910be30" />
+</div>
 
 This project offers a scalable and efficient solution for sentiment analysis in the smartphone market, leveraging the power of modern data engineering and analytics tools.
 
